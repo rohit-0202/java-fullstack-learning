@@ -11,18 +11,30 @@ This repo will track everything I learn step by step, including:
 
 ---
 
-## 📂 Repo Structure  
+# Java Fullstack Learning Journey
 
----
+Welcome to my learning repository! This repo tracks my progress in Java Fullstack Development, including UI (HTML, CSS, JS), Java, SQL, and projects.
 
-## 📅 Daily Progress Tracker  
-| Day | Topics Covered | Folder/Files |
-|-----|----------------|--------------|
-| 1   | HTML Basics    | `UI/Day1/`   |
-| 2   | CSS Basics     | `UI/Day2/`   |
-| 3   | Java - Data Types, Variables | `Core-Java/Day3/` |
+## Day-0
+- Repository structure created: `UI/`, `Java/`, `SQL/`, `Projects/`
+- GitHub workflow tested
+- Journey officially started 🚀
 
-(Updating daily as I learn 🚀)
+## Day-1 (UI)
+- HTML basics: headings (`h1-h6`), paragraph, span
+- Formatting tags: `b`, `strong`, `i`, `em`, `u`, `s`, `del`, `sub`, `sup`, `mark`
+- Practice file: `UI/Day-1.html`
+
+## Day-2 (UI)
+- Lists: ordered (`ol`) and unordered (`ul`) with attributes (`type`, `start`)
+- Attributes: `src`, `height`, `width`, `title`, `alt`, `href`
+- Tags: `img` and `a` (anchor)
+- Practice file: `UI/Day-2.html`
+
+## Next Steps
+- Day-3: Forms, input elements, and tables
+- Keep pushing daily exercises here
+
 
 ---
 
